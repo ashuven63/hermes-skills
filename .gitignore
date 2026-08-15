@@ -1,0 +1,6 @@
+# Ignore local vault contents and runtime artifacts
+research/
+serve.log
+*.pyc
+__pycache__/
+.DS_Store
